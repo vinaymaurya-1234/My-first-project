@@ -20,6 +20,3 @@
 /coverage
 
 .env
-node_modules
-artifacts
-cache
